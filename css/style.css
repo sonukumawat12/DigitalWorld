@@ -12,7 +12,7 @@ li.nav-item {
 }
 
 .head-section {
-    background-image: url(/img/backgrnd.jpg);
+    background-image: url(../img/backgrnd.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
